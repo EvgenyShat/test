@@ -10,7 +10,7 @@
  * @var string $componentPath
  * @var string $templateFolder
  */
-ljlj khkhkhkhkjh
+ljl
 
 $this->setFrameMode(true);
 
